@@ -1,0 +1,25 @@
+q,a
+What is the typical turnaround time for an MVP?,"Most MVPs take 2–4 weeks depending on scope, integrations, and decision speed."
+Do you build using Bubble and Webflow?,Yes. We use Bubble for app logic and Webflow for marketing sites and CMS.
+Which tools do you use for automations?,"Commonly n8n and Make, with connectors to Slack, Google Sheets/Docs and CRMs."
+Can you integrate with CRMs such as HubSpot or Salesforce?,Yes. We integrate via REST APIs or native connectors and map fields carefully.
+How do you handle data privacy and GDPR?,"We minimise data collection, avoid storing PII unless required, and use environment‑scoped secrets. A DPA is available on request."
+Do you support AI features such as RAG chatbots?,"Yes. We implement retrieval‑augmented generation using vector databases like Pinecone, pgvector or Weaviate."
+What is your stance on vendor lock‑in?,We favour portable architectures and document migration paths so you can switch vendors later.
+Can you deploy into our own cloud account?,"Yes. We can deploy to AWS, GCP or Azure, or use managed hosting such as Vercel/Netlify where appropriate."
+Do you offer maintenance retainers?,"Yes. Monthly retainers can cover bug fixes, minor enhancements, monitoring and on‑call arrangements."
+Who owns the IP for deliverables?,You own custom code and assets upon full payment. We retain rights to internal templates and boilerplate.
+Do you sign NDAs?,Yes. We are happy to sign your NDA or provide ours.
+How do you price projects?,Fixed price for well‑scoped MVPs; time and materials for open‑ended or exploratory work.
+Do you add product analytics?,Yes on request. We frequently use PostHog or GA4 for event tracking and funnels.
+What level of accessibility do you target?,"Where in scope, we aim for WCAG 2.1 AA for web projects and document known gaps."
+Do you support GDPR‑compliant hosting?,Yes. We can host in the UK/EU and follow data minimisation and subject rights processes.
+Do you provide SLAs?,Standard response times are included. Custom SLAs are available on retainers.
+Do you provide training and handover?,Yes. We supply documentation and a 60–90 minute handover session for your team.
+How do you handle change requests?,Changes are captured in a change log and estimated/priced separately from the original scope.
+What is your version control and release process?,"We use GitHub with PR review, and can set up CI/CD to Vercel/Netlify or pipelines in your cloud."
+"Do you build multi‑tenant, white‑label platforms?","Yes. Typical stack includes Next.js, a Postgres/pgvector/Supabase back end, and organisation‑level tenancy."
+Can you work with Python for scripts and APIs?,"Yes. We write Python for ETL, API integrations and back‑end services; we containerise where practical."
+Which AI models do you use?,OpenAI and Claude are common choices; we can also use local models when privacy or cost demands.
+Can you connect to spreadsheets and documents?,"Yes. We integrate with Notion, Google Sheets/Docs and Airtable frequently."
+Do you support email outreach tooling?,Yes. We can integrate Instantly and CRM systems for compliant sequence management.
